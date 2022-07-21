@@ -1,24 +1,13 @@
-# README
+# Rails API implementation demo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An in-progress implementation of a RESTful API using Rails.
 
-Things you may want to cover:
+### Objectives
 
-* Ruby version
+- Use an API-only implementation Rails with no front-end view scaffolding
 
-* System dependencies
+- Use [Apipie](https://github.com/Apipie/apipie-rails) to create Swagger-style endpoint docs.
 
-* Configuration
+- Match the schema for my [React Portfolio](https://github.com/garyesmith/react-portfolio) app with an eye to eventually integrate the two.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Implement token authentication.
